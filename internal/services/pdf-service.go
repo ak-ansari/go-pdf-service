@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ak-ansari/go-pdf-service/pkg/model"
+	"github.com/ak-ansari/go-pdf-service/model"
 	"github.com/jung-kurt/gofpdf"
 )
 

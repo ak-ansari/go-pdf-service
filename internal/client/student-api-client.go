@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ak-ansari/go-pdf-service/pkg/model"
+	"github.com/ak-ansari/go-pdf-service/model"
 )
 
 type StudentAPIClient struct {
